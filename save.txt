@@ -1,0 +1,100 @@
+if(zero):
+            botao = auto.locateCenterOnScreen("numero/botao/zero.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(um):
+            botao = auto.locateCenterOnScreen("numero/botao/um.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(umDois):
+            botao = auto.locateCenterOnScreen("numero/botao/um.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(dois):
+            botao = auto.locateCenterOnScreen("numero/botao/dois.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(doisDois):
+            botao = auto.locateCenterOnScreen("numero/botao/dois.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(tres):
+            botao = auto.locateCenterOnScreen("numero/botao/tres.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(tresDois):
+            botao = auto.locateCenterOnScreen("numero/botao/tres.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(quatro):
+            botao = auto.locateCenterOnScreen("numero/botao/quatro.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(quatroDois):
+            botao = auto.locateCenterOnScreen("numero/botao/quatro.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(quatroTres):
+            botao = auto.locateCenterOnScreen("numero/botao/quatro.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(cinco):
+            botao = auto.locateCenterOnScreen("numero/botao/cinco.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(cincoTres):
+            botao = auto.locateCenterOnScreen("numero/botao/cinco.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(cincoQuatro):
+            botao = auto.locateCenterOnScreen("numero/botao/cinco.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(seis):
+            botao = auto.locateCenterOnScreen("numero/botao/seis.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(seisDois):
+            botao = auto.locateCenterOnScreen("numero/botao/seis.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(sete):
+            botao = auto.locateCenterOnScreen("numero/botao/sete.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(seteDois):
+            botao = auto.locateCenterOnScreen("numero/botao/sete.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(oito):
+            botao = auto.locateCenterOnScreen("numero/botao/oito.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(oitoDois):
+            botao = auto.locateCenterOnScreen("numero/botao/oito.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(oitoTres):
+            botao = auto.locateCenterOnScreen("numero/botao/oito.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(oitoQuatro):
+            botao = auto.locateCenterOnScreen("numero/botao/oito.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(noveDois):
+            botao = auto.locateCenterOnScreen("numero/botao/nove.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(noveTres):
+            botao = auto.locateCenterOnScreen("numero/botao/nove.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(noveQuatro):
+            botao = auto.locateCenterOnScreen("numero/botao/nove.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
+        elif(noveCinco):
+            botao = auto.locateCenterOnScreen("numero/botao/nove.png", region=(615, 365, 200, 150), confidence = 0.9)
+            if(botao):
+                clicarBotao(botao)
